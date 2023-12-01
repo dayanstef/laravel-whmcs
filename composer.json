@@ -28,7 +28,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "git@github.com:dayanstef/php-whmcs-api.git"
+            "url": "https://github.com/dayanstef/php-whmcs-api"
         }
     ],
     "autoload": {
