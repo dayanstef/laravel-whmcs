@@ -14,7 +14,7 @@
         "illuminate/support": "^8.0|^9.0|^10.0",
         "illuminate/session": "^8.0|^9.0|^10.0",
         "illuminate/events": "^8.0|^9.0|^10.0",
-        "darthsoup/php-whmcs-api": "dev-main",
+        "darthsoup/php-whmcs-api": "dev-fix",
         "graham-campbell/manager": "^5.0"
     },
     "require-dev": {
